@@ -1,4 +1,4 @@
-package com.stream.practice;
+package com.stream.practice.number;
 
 import java.util.Arrays;
 import java.util.HashSet;
